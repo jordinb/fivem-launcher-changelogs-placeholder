@@ -1,6 +1,5 @@
 # 💀 BADASS SERVER NAME HERE 💀
-## Super Cool Update Title
-## Version: (v0.0.1) - Released: (0/0/0000)
+##  Super Cool Update Title Here  | Version: (v0.0.1) | Released: (0/0/0000)
 ### Feature Category 1
 - Super Cool Addon
 - Even Cooler Addon
