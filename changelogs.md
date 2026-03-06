@@ -1,4 +1,4 @@
-# 💀 FIVEM CHANGELOGS 💀
+# 💀 CHANGELOGS 💀
 **Super Cool Update Title Here**
 
 **Version: (v0.0.1) | Date: (0/0/0000)**
