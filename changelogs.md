@@ -1,7 +1,7 @@
-# 💀 BADASS CHANGELOGS 💀
+# 💀 FIVEM CHANGELOGS 💀
 **Super Cool Update Title Here  | Version: (v0.0.1) | Date: (0/0/0000)**
 
-### Feature Category 1
+### [Feature Category 1]
 #### Super Cool Addon
 
 - This update is really super cool! 
@@ -13,7 +13,7 @@
 
 
 
-### Feature Category 2
+### [Feature Category 2]
 #### Nerfed An OP Weapon
 
 - No more insta-kill baseballs!
